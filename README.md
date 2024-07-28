@@ -1,10 +1,6 @@
 # v2board 潮汐客戶端
 
-![RUNOOB 图标]([https://static.jyshare.com/images/runoob-logo.png](https://github.com/edison22312/word/blob/main/Screenshot%202024-07-28%20222918.png))
 
-![RUNOOB 图标]([https://static.jyshare.com/images/runoob-logo.png](https://github.com/edison22312/word/blob/main/Screenshot%202024-07-28%20222918.png) "RUNOOB")
-
-https://github.com/edison22312/word/blob/main/Screenshot%202024-07-28%20222918.png
 
 所需環境依賴
 nodejs
