@@ -1,5 +1,5 @@
 # v2board 潮汐客戶端
-
+打包構建 WIN 客戶端 和 MAC 客戶端
 ![image](https://github.com/edison22312/word/blob/main/Screenshot%202024-07-28%20222918.png)
 
 所需環境依賴
