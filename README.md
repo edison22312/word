@@ -20,10 +20,11 @@ sudo apt update
 
 ```
 
+```
 sudo apt install nodejs npm
 node --version
 npm --version
-
+```
 
 electron安裝
 
